@@ -1,35 +1,107 @@
-# 💫 About Me:
-Hi, I’m Romeo Quiñones, a BSIT graduate specializing in Web and Mobile Application Development.
+# Hey, I'm Romeo 👋
 
-I’m a passionate aspiring developer with hands-on experience building modern web applications using React, along with exposure to cloud infrastructure and DevOps practices. I enjoy turning ideas into functional, user-friendly systems and continuously improving my technical skills.
+**Software Developer**
 
-# 💡 What I Do
-- Build responsive and scalable web applications
-- Work with modern frontend tools like React, Tailwind CSS, and TypeScript
-- Develop backend services using Node.js and Express
-- Design and manage databases (MySQL, PostgreSQL)
-- Deploy and manage applications using AWS, Docker, and Terraform
+I love building reliable, scalable, and user-focused web applications while experimenting with modern cloud infrastructure.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/romeo-m-quiñones-jr-343137306) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RoMiyoQuinones) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithROMI) 
+- 🎓 Fresh **BSIT Graduate** specializing in Web and Mobile Application Development
+- 🔧 Currently learning Nextjs
+- 🌱 Exploring modern CI/CD pipelines and environment provisioning with **Terraform & Ansible**
+- 🌐 Portfolio: [itsromeo.dev](https://itsromeo.dev)
+- ⚡ Fun fact: I chat with AI more than actual humans 🫠
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yomiyow&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yomiyow&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yomiyow&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<!-- --- -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yomiyow&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
+## Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table>
+	<tr>
+		<th align="left">Category</th>
+		<th align="left">Technologies</th>
+	</tr>
+	<tr>
+		<td><b>☁️ Cloud</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="Amazon EC2"/>
+			<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+			<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="Amazon RDS"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>📦 Containerization</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>🔁 CI/CD</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>🏗️ Infrastructure as Code (IaC)</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+			<img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>📊 Observability</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+			<img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+			<img src="https://img.shields.io/badge/-Checkmk-00E096?style=flat-square&logo=checkmk&logoColor=white" alt="Checkmk"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>🖥️ OS & Infrastructure</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+			<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
+			<img src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>💻 Languages</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+			<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+			<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>📚 Frameworks & Libraries</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+			<img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+			<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+			<img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>🧪 Testing</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+		</td>
+	</tr>
+	<tr>
+		<td><b>🗄️ Databases</b></td>
+		<td>
+			<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+			<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+			<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+			<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+		</td>
+	</tr>
+</table>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yomiyow&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<!-- --- -->
 
----
-[![](https://visitcount.itsvg.in/api?id=yomiyow&icon=0&color=0)](https://visitcount.itsvg.in)
+## Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=yomiyow&theme=github_dark&bg_color=0d1117&border_color=30363d&show_icons=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yomiyow&theme=github_dark&bg_color=0d1117&border_color=30363d&layout=compact" alt="Top Languages"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandkore101)
